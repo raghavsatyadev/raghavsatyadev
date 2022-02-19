@@ -1,16 +1,20 @@
-### Hi there 👋
+<h4 align="left">
+ Hi there 👋🏾
+</h4>
+<p align="left">
+My name is Raghav Satyadev, and I enjoy building Android Mobile Applications using Java/Kotlin.
+<h5 align="left">
 
-<!--
-**raghavsatyadev/raghavsatyadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghavsatyadev&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&count_private=true)
 
-Here are some ideas to get you started:
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=raghavsatyadev&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavsatyadev&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)](https://github.com/raghavsatyadev?tab=repositories)
+
+<h3>Where to find me</h3>
+<a href="https://twitter.com/RJSatyadev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rjsatyadev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.upwork.com/freelancers/rjsatyadev" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /></a>
+</p>
+
+Profile Design Inspired by https://github.com/Madonahs
