@@ -2,7 +2,7 @@
  Hi there 👋🏾
 </h4>
 <p align="left">
-My name is Raghav Satyadev, and I am an Freelance Android Developer developing apps using Java/Kotlin since 2016.
+My name is Raghav Satyadev, and I am a Freelance Android Developer developing apps using Java/Kotlin since 2016.
 <h5 align="left">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghavsatyadev&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe)](https://github.com/raghavsatyadev?tab=repositories)
